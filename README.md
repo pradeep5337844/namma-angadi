@@ -1,2 +1,1 @@
-"# nammaangadi" 
-"# nammaangadi" 
+"namma-angadi ecommerce app" 
